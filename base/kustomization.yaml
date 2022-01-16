@@ -7,6 +7,5 @@ secretGenerator:
       - POSTGRES_PASSWORD=tes6Aev8
   
 resources:
-  - pg-ns.yaml
   - pg-svc.yaml
   - pg-sfs.yaml
